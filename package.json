@@ -1,0 +1,32 @@
+{
+  "name": "optimization-gas",
+  "version": "1.0.2",
+  "description": "optimization-gas",
+  "main": "index.js",
+  "bin": {
+    "hardhat-cli": "./bin/cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "MaRui"
+  },
+  "license": "ISC",
+  "keywords": [
+    "hardhat-cli"
+  ],
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "commander": "^9.4.1",
+    "fs-extra": "^11.1.0",
+    "inquirer": "^8.2.4",
+    "ora": "^5.1.0",
+    "clear": "^0.1.0",
+    "figlet": "^1.5.2",
+    "fs": "^0.0.1-security",
+    "util": "^0.12.5"
+  },
+  "repository": "git@github.com:AaronMax1/optimization-gas.git",
+  "homepage": "git@github.com:AaronMax1/optimization-gas.git"
+}
